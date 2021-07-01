@@ -536,18 +536,7 @@ label.valid {
   .container {
     max-width: 1200px; } }
 @media screen and (max-width: 768px) {
-  .forgot-password{
-    display: inline;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 50px;
-    order: 2;
-    -moz-order: 2;
-    -webkit-order: 2;
-    -o-order: 2;
-    -ms-order: 2;
 
-  }
   .signup-content, .signin-content {
     flex-direction: column;
     -moz-flex-direction: column;
@@ -578,7 +567,7 @@ label.valid {
     -o-order: 2;
     -ms-order: 2; }
 
-  .signup-form, .signup-image, .signin-form, .signin-image ,.forgot-password {
+  .signup-form, .signup-image, .signin-form, .signin-image , {
     width: auto; }
 
   .social-login {
@@ -605,7 +594,7 @@ label.valid {
 
   .form-title {
     text-align: center; } }
-@media screen and (min-width: 480px) {
+@media screen and (max-width: 400px) {
   .social-login {
     flex-direction: column;
     -moz-flex-direction: column;
