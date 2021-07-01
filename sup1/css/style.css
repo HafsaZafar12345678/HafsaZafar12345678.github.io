@@ -602,7 +602,7 @@ label.valid {
     margin-right: 0px;
     margin-bottom: 10px; } }
 @media all and (max-width: 480px) {
-    .forgot-password { display: inline; }
+    .forgot-password { margin-left: 0px; }
 }
 
 /*# sourceMappingURL=style.css.map */
