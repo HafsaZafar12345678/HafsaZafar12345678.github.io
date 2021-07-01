@@ -547,8 +547,10 @@ label.valid {
     -webkit-justify-content: center;
     -o-justify-content: center;
     -ms-justify-content: center; }
-   
-
+   .forgot-password {
+    display: inline;
+    margin-left: 25px; 
+  }
   .signup-form {
     margin-left: 0px;
     margin-right: 0px;
