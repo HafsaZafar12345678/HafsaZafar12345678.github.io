@@ -536,7 +536,6 @@ label.valid {
   .container {
     max-width: 1200px; } }
 @media screen and (max-width: 768px) {
-
   .signup-content, .signin-content {
     flex-direction: column;
     -moz-flex-direction: column;
@@ -567,7 +566,7 @@ label.valid {
     -o-order: 2;
     -ms-order: 2; }
 
-  .signup-form, .signup-image, .signin-form, .signin-image  {
+  .signup-form, .signup-image, .signin-form, .signin-image {
     width: auto; }
 
   .social-login {
@@ -589,8 +588,6 @@ label.valid {
     margin-right: 0px;
     margin-left: 0px;
     padding: 0 30px; }
-  
-    
 
   .form-title {
     text-align: center; } }
@@ -604,10 +601,6 @@ label.valid {
 
   .social-label {
     margin-right: 0px;
-    margin-bottom: 10px; }
-
-  
-  
-  }
+    margin-bottom: 10px; } }
 
 /*# sourceMappingURL=style.css.map */
