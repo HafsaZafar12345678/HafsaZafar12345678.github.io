@@ -547,9 +547,11 @@ label.valid {
     -webkit-justify-content: center;
     -o-justify-content: center;
     -ms-justify-content: center; }
+  
+  
     .forget-password {
      display: inline;
-      margin-left: 45px;
+      margin-left: 0px;
       
   }
 
