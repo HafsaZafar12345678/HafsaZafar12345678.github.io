@@ -547,13 +547,6 @@ label.valid {
     -webkit-justify-content: center;
     -o-justify-content: center;
     -ms-justify-content: center; }
-  
-  
-    .forget-password {
-     display: inline;
-      margin-left: 0px;
-      
-  }
 
   .signup-form {
     margin-left: 0px;
@@ -608,10 +601,5 @@ label.valid {
   .social-label {
     margin-right: 0px;
     margin-bottom: 10px; } }
-@media screen and(max-width: 481px) {
-  .forgot-password {
-    display: inline;
-    margin-left: 25px;
-  }
-}
+
 /*# sourceMappingURL=style.css.map */
