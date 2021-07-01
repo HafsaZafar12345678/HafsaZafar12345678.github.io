@@ -605,8 +605,13 @@ label.valid {
     -o-flex-direction: column;
     -ms-flex-direction: column; }
        
-  .social-label , .forgot-password{
+  .social-label {
     margin-right: 0px;
     margin-bottom: 10px; } }
-
+@media screen and(max-width: 481px) {
+  .forgot-password {
+    display: inline;
+    margin-left: 25px;
+  }
+}
 /*# sourceMappingURL=style.css.map */
