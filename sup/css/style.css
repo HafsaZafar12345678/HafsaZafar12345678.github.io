@@ -603,10 +603,9 @@ label.valid {
     -o-flex-direction: column;
     -ms-flex-direction: column; }
         .forgot-password {
-  display: block;
-  margin-left: 0px;
-  justify-content: center;
-  }
+          
+           margin-left: 0px;
+           margin-right: 45px;}
   .social-label {
     margin-right: 0px;
     margin-bottom: 10px; } }
