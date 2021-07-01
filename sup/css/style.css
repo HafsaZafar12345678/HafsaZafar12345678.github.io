@@ -536,11 +536,6 @@ label.valid {
   .container {
     max-width: 1200px; } }
 @media screen and (max-width: 768px) {
-  .forgot-password{
-    display: inline;
-    margin-left: 0px;
-    margin-right: 0px;
-  }
 
   .signup-content, .signin-content {
     flex-direction: column;
@@ -607,11 +602,7 @@ label.valid {
   .social-label {
     margin-right: 0px;
     margin-bottom: 10px; } 
-.forgot-password{
-       display: inline;
-    margin-left: 45px;
 
-  }
 
 }
 
